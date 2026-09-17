@@ -3,7 +3,7 @@
 #контактная информация
 * телефон +79660385553
 * email andrejackevic3@gmail.com
-* discord 
+* discord letov_2314
 
 #краткая информация
 хочу обучиться основам java script'a, углубиться в front-end.
