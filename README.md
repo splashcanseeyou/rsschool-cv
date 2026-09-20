@@ -1,1 +1,1 @@
-https://splashcanseeyou.github.io/rsschool-cv/cv.html
+https://splashcanseeyou.github.io/rsschool-cv/
